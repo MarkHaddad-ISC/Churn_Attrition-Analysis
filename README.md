@@ -15,7 +15,7 @@ FILTERING:
 
 Due to a lack of direct database connections, alot of the work is done in excel sheets, extracting via openpyxl, and manipulitng with pandas.
 
-I have included blank Input and Ouput folders here, this is where the excel files are stored
+I have included blank RawInput and Ouputs folders here, this is where the excel files are stored
 
 Some of the data sources are pre filtered, some require scripts to clean to them up
 to obtain the data neccesary for this project please reach out to either Xavier Lecomte or Ravi Gupta
