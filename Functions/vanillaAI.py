@@ -6,6 +6,7 @@ import time
 def vanillaChatBot(inputString, systemPrompt, model, retries=3, delay=61):
     url = 'https://copilot.moodys.com/api/v2/usecases/defaults/chat'
     headers = {
+        # please go to https://copilot.moodys.com/profile to generate your own keys
         'x-api-client': ENV_API_CLIENT,
         'x-api-key': ENV_API_KEY,
         'genai_token': ''
