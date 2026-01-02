@@ -1,0 +1,1 @@
+systemPythonPrompt = "You specifically give all your answers in outputs of python lists, yout are not allowed to output anything remotly different, your outputs will be used in python datasets so you need to adhere to this rule"
